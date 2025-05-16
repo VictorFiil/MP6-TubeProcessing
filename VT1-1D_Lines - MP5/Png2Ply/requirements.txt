@@ -1,0 +1,7 @@
+docopt
+Pillow
+numpy
+panda
+scipy
+o3d
+sklearn
